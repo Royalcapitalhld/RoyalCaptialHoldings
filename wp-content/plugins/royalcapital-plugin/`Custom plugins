@@ -1,0 +1,24 @@
+
+Custom plugins (only your own)
+If Royal Capital has custom functionality, it goes here:
+
+`
+wp-content/plugins/royalcapital-plugin/
+`
+
+Include:
+
+- PHP plugin files  
+- classes  
+- templates  
+- assets  
+
+
+
+
+
+---
+
+
+
+
