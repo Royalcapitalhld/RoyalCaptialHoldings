@@ -5,3 +5,11 @@ royalcapitalholdings/templates/
   template-investor-relations.php
   template-contact.php
   template-services.php
+
+templates/
+  template-about.php
+  template-governance.php
+  template-holdings.php
+  template-investor-relations.php
+  template-contact.php
+  template-services.php
