@@ -1,0 +1,23 @@
+royalcapitalholdings/assets/
+  css/
+    style.css
+    layout.css
+    components.css
+    typography.css
+    utilities.css
+
+  js/
+    theme.js
+    navigation.js
+    animations.js
+    accessibility.js
+
+  images/
+    logo.png
+    favicon.png
+    hero/
+    icons/
+    brand-elements/
+
+  fonts/
+    (public-safe fonts only)
