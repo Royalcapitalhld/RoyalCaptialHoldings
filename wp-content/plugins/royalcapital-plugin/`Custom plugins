@@ -14,7 +14,10 @@ Include:
 - assets  
 
 
-
+royalcapital-plugin/
+  royalcapital-plugin.php
+  assets/
+  inc/
 
 
 ---
