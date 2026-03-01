@@ -10,3 +10,14 @@ royalcapitalholdings/template-parts/
   footer-widgets.php
 royalcapitalholdings/template-parts/
   
+
+template.parts/
+  hero.php
+  section-about.php
+  section-governance.php
+  section-holdings.php
+  section-investor-relations.php
+  section-contact.php
+  cta.php
+  header-navigation.php
+  footer-widgets.php
