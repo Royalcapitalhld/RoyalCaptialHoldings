@@ -1,0 +1,21 @@
+
+Public Repository Contents for Royal Capital Holdings
+
+ Custom Theme (your brand + UI logic)
+This is the core of the public repo.
+`
+wp-content/themes/royalcapitalholdings/
+`
+Include:
+
+- style.css  
+- functions.php  
+- index.php  
+- header.php, footer.php, page.php, etc.  
+- templates/  
+- assets/ (CSS, JS, images used by the theme)  
+- inc/ or includes/  
+- theme.json (if block theme)  
+- acf-json/ (if using ACF local JSON)
+
+
