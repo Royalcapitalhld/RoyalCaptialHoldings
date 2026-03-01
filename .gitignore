@@ -1,0 +1,19 @@
+ .gitignore (critical)
+File:
+
+`
+.gitignore
+`
+
+Contents:
+
+`
+wp-config.php
+wp-content/uploads/
+wp-content/cache/
+wp-content/upgrade/
+wp-content/debug.log
+node_modules/
+vendor/
+.env
+`
