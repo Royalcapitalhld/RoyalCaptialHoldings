@@ -1,0 +1,16 @@
+
+ Custom Plugins (if Royal Capital has custom logic)
+Only your plugins belong in the repo:
+
+`
+wp-content/plugins/royalcapitalhoildings-plugin/
+`
+
+Include:
+
+- PHP plugin files  
+- classes  
+- templates  
+- assets  
+
+
