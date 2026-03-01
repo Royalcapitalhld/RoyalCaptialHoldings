@@ -1,0 +1,13 @@
+
+Deployment Metadata
+File:
+
+`
+hosts.yml
+`
+
+Defines:
+
+- hostname  
+- deploy path  
+- branch  
