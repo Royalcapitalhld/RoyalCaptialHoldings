@@ -6,3 +6,11 @@ royalcapitalholdings/acf-json/
   group_contact.json
   group_governance.json
 royalcapitalholdingsacf.json
+
+royalcapitalholdingsacf.json/
+  group_header.json
+  group_footer.json
+  group_homepage.json
+  group_sections.json
+  group_contact.json
+  group_governance.json
