@@ -1,0 +1,15 @@
+ MU‑Plugins (optional)
+Folder:
+
+`
+wp-content/mu-plugins/
+`
+
+Contents:
+
+- custom post types  
+- routing logic  
+- security logic  
+- performance logic  
+
+Only if you use MU‑plugins.
