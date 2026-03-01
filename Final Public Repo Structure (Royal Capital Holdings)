@@ -1,0 +1,28 @@
+
+Final Public Repo Structure (Royal Capital Holdings)
+
+`
+royalcapital-wordpress/
+│
+├── wp-content/
+│   ├── themes/
+│   │   └── royalcapital/
+│   ├── plugins/
+│   │   └── royalcapital-plugin/
+│   └── mu-plugins/
+│
+├── config/
+│   ├── wp-config-template.php
+│   └── environment.php
+│
+├── .github/
+│   └── workflows/
+│       └── deploy.yml
+│
+├── hosts.yml
+├── .gitignore
+└── README.md
+`
+
+
+
