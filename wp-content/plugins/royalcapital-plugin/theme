@@ -1,0 +1,16 @@
+
+Theme (Royal Capital holdings brand identity)
+wp-content/themes/royalcapitalholdings/
+`
+Include:
+
+- style.css  
+- functions.php  
+- index.php  
+- header.php, footer.php, page.php, etc.  
+- templates/  
+- assets/ (CSS, JS, theme images)  
+- inc/ or includes/  
+- theme.json (if block theme)  
+- acf-json/ (if using ACF local JSON)
+
