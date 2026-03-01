@@ -1,0 +1,15 @@
+ Configuration Templates (NO secrets)
+Folder:
+
+`
+config/
+`
+
+Contents:
+
+- wp-config-template.php
+- environment.php
+
+These contain placeholders, not real credentials.
+
+---
