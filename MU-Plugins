@@ -13,3 +13,9 @@ Contents:
 - performance logic  
 
 Only if you use MU‑plugins.
+
+MU-Plugins/
+  index.php
+  security-hardening.php
+  disable-comments.php
+  performance.php
