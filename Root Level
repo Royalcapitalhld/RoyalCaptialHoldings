@@ -1,0 +1,14 @@
+README.md
+.gitignore
+Deployment Metadata/
+Deployment workflow/
+Configuration Templates Placeholders/
+Root/
+royalcapitalholdings/
+assets/
+royalcapitalholdings.inc/
+royalcapitalholdingsacf.json/
+template.parts/
+templates/
+wp-content/plugins/royalcapital-plugin/
+MU-Plugins/
