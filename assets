@@ -21,3 +21,26 @@ royalcapitalholdings/assets/
 
   fonts/
     (public-safe fonts only)
+assets/
+  css/
+    style.css
+    layout.css
+    components.css
+    typography.css
+    utilities.css
+
+  js/
+    theme.js
+    navigation.js
+    animations.js
+    accessibility.js
+
+  images/
+    logo.png
+    favicon.png
+    brand-elements/
+      Royal-Capital-Holdings-The-Gate-Image-Feb-4-1776-04_14_05-PM.png
+      (other brand images)
+
+  fonts/
+    (public-safe fonts only)
